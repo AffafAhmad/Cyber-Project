@@ -20,7 +20,7 @@
 - Breakable seals in Readers
 - Alarms
 - Use of unique Identifiers
-- 
+
 
 
 
