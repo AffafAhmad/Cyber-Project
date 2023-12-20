@@ -9,12 +9,11 @@
 - Hacker can copy the code of RFID device.
 - He can install a chip on the detection panel and copy the access code from there and can gain unauthorized access.
 - He can perform replay attack.
-- If thr RFID is encrypted, it can be cracked.
+- Side channel attacks can crack the encryptions of RFIDs.
 ### Tools For Exploitations
 - Credential Skimmer
 - ProxMark3
 - RFIDler
-- ESP key
 
 ## Mitigations
 - Encyption
